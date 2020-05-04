@@ -47,7 +47,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://www.archlinux.org/)
 
-Pass the request as localhost:3000/?firsuser=username1&seconduser=username2
+Pass the request as localhost:3000/?firstuser=username1&seconduser=username2
 
 * Simplicity
   Enter the firstusername and the second user name as a get request and see the result compared 
