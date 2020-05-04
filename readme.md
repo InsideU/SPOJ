@@ -47,7 +47,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://www.archlinux.org/)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+Pass the request as localhost:3000/?firsuser=username1&seconduser=username2
 
 * Simplicity
   Enter the firstusername and the second user name as a get request and see the result compared 
