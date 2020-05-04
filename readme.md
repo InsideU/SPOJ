@@ -17,7 +17,7 @@
   <h3 align="center">README-Template</h3>
 
   <p align="center">
-    An README template that is so addictive that you become lazy like me :smile:
+    Compare Your Progress with your Friends Progress :smile:
     <br />
     <a href="https://github.com/InsideU/ReadmeTemplate#about-the-project"><strong> Documentation »</strong></a>
     <br />
@@ -97,7 +97,7 @@ Your Name - [@Umang](https://twitter.com/ssingh_umang) - umang20singh@gmail.com
 [issues-shield]: https://img.shields.io/github/issues/InsideU/ReadmeTemplate.svg?style=flat-square
 [license-shield]: https://img.shields.io/github/license/InsideU/ReadmeTemplate.svg?style=flat-square
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[product-screenshot]: images/test1.png
+[product-screenshot]: images/file.png
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
